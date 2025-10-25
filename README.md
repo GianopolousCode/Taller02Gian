@@ -8,3 +8,4 @@ g++ -std=c++17 bench_runner.cpp Benchmark.cpp SparseMatrix.cpp Cell.cpp -o bench
 g++ -std=c++17 main.cpp SparseMatrix.cpp Cell.cpp -o matriz
 ./matriz
 
+Integrantes: Gian Guzman Ortiz gian.guzman@alumnos.ucn.cl Paralelo c2 -> Prof. Bastian ruiz
